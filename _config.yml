@@ -1,19 +1,4 @@
-name: emcarta
-favicon: null
-layout_spectrum: 0.6961738602258265
 typography_spectrum: 0.15010622469708323
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9685762310400605
   saturation: 0.8973167166113853
   rhythmicContrast: 0.7855365118011832
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6961738602258265
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: emcarta
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Heart
 purpose: []
